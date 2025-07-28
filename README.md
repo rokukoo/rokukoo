@@ -1,8 +1,20 @@
 # Hi there 👋
 
-我是一个热爱技术的开发者，你可以叫我六子，几乎主流的编程语言都能熟练使用，包括但不限于：
+我是一个热爱技术的开发者，你可以叫我六子。
+I am a tech-enthusiastic developer. You can call me Rokuko.
 
-I am a tech-enthusiastic developer. You can call me Liuzi. I am proficient in almost all mainstream programming languages, including but not limited to:
+<a href="http://www.baidu.com">
+2131231231
+</a>
+
+🚀 技术矩阵 / Tech Matrix
+
+Java Kotlin Spring Gradle Maven Swagger
+
+Python JavaScript AI SQL
+
+IntelliJ IDEA Docker Linux Shell Git GitHub Actions
+
 - C / C++ / C#
 - Python
 - Java / Scala / Groovy / Kotlin
