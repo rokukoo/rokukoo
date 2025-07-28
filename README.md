@@ -8,9 +8,10 @@ I am a tech-enthusiastic developer. You can call me Rokuko.
   <img src="https://camo.githubusercontent.com/1e4b67c04239c3dd635207b75c841e801dcf80d5d4a4bdc815672b4c50549ea5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769746875622d3030303f7374796c653d666c6174266c6f676f3d476974687562266c6f676f436f6c6f723d7768697465" />
 </a>
 
-🚀 技术矩阵 / Tech Matrix
+## 🚀 技术矩阵 / Tech Matrix
 
-Java Kotlin Spring Gradle Maven Swagger
+[](https://camo.githubusercontent.com/820284e0853b2492228123fa656b11a6479e11fe2357ed0d7982dd0bfff70b3a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d3030373339363f6c6f676f3d6a617661266c6f676f436f6c6f723d7768697465) 
+Kotlin Spring Gradle Maven Swagger
 
 Python JavaScript AI SQL
 
