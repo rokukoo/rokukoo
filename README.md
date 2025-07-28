@@ -42,10 +42,6 @@ I am a tech-enthusiastic developer. You can call me Rokuko.
 
 目前专注于云计算相关功能的开发，持续探索分布式系统、云原生架构和高性能计算等领域。
 
-I am experienced(maybe?) in full-stack development, data science, and Minecraft plugin/mod development (both server-side and client-side), as well as DevOps and system-level optimization.
-
-Currently, I am focusing on the development of cloud computing-related features, continuously exploring areas such as distributed systems, cloud-native architecture, and high-performance computing.
-
 欢迎交流与合作！
 Welcome to connect and collaborate!
 
