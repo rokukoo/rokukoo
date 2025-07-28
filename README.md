@@ -29,14 +29,7 @@ I am a tech-enthusiastic developer. You can call me Rokuko.
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GHA-2088FF?logo=github-actions&logoColor=white)
 
-IntelliJ IDEA Docker Linux Shell Git GitHub Actions
-
-- C / C++ / C#
-- Python
-- Java / Scala / Groovy / Kotlin
-- Golang
-- Rust
-- JavaScript / TypeScript
+## 涉猎领域
 
 我涉猎的领域非常广泛，涵盖但不限于：
 - 云计算与分布式系统
